@@ -21,3 +21,5 @@ that's it.
 no kafka complexity. no rabbitmq config hell. just works.
 
 [github](https://github.com/queue-systems/phnxq) • MIT
+
+# PR Merge: 2025-11-01 08:13:47
